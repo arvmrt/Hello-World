@@ -1,2 +1,1 @@
-uname -a
-df -h
+print("Hello World")
